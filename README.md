@@ -1,4 +1,7 @@
 # Daily-Work-Planner
+![alt text](./dailyplanner.png)
+
+This daily planner will help you plan your current day. Every morning, anything in local storage will get cleared to make sure you start your day fresh. Once your day begins, you can add and edit event for each hour by entering text and hitting the save button. 
 
 ## User Story
 
